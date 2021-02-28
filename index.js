@@ -210,6 +210,56 @@ const category = [
     imageurl:"",
     description:"",
     parent_id:1
+  },{
+    name:"Mobiles",
+    imageurl:"",
+    description:"",
+    parent_id:2
+  },{
+    name:"Mobile Accessories",
+    imageurl:"",
+    description:"",
+    parent_id:2
+  },{
+    name:"Power Banks",
+    imageurl:"",
+    description:"",
+    parent_id:2
+  },{
+    name:"Renewed Mobiles",
+    imageurl:"",
+    description:"",
+    parent_id:2
+  },{
+    name:"Laptops",
+    imageurl:"",
+    description:"",
+    parent_id:2
+  },{
+    name:"Tablets",
+    imageurl:"",
+    description:"",
+    parent_id:2
+  },{
+    name:"Computers & Accessories",
+    imageurl:"",
+    description:"",
+    parent_id:2
+  },{
+    name:"Pen Drives & Storage",
+    imageurl:"",
+    description:"",
+    parent_id:2
+  },{
+    name:"Office Supplies & Staionery",
+    imageurl:"",
+    description:"",
+    parent_id:2
+  },{
+    name:"Wearable Devices",
+    imageurl:"",
+    description:"",
+    parent_id:2
   }
 ];
 
