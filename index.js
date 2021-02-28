@@ -29,6 +29,7 @@ const departments = [
 
 
 
-
+const category = [{}];
+const subcategory = [{}];
 console.log(JSON.stringify(departments));
 appDiv.innerHTML = `<h1>${JSON.stringify(departments)}</h1>`;
