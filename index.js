@@ -47,8 +47,38 @@ const departments = [
     description:"",
     isAvalible:true
   },
-  {},
-  {}
+  {
+    dpt_id:6,
+    country_code:"in",
+    name:"Home, Kitchen, Pets, Furniture",
+    imageurl:"",
+    description:"",
+    isAvalible:true
+  },
+  {
+    dpt_id:7,
+    country_code:"in",
+    name:"Grocery & Household supplies",
+    imageurl:"",
+    description:"",
+    isAvalible:true
+  },
+  {
+    dpt_id:8,
+    country_code:"in",
+    name:"Beauty, Health",
+    imageurl:"",
+    description:"",
+    isAvalible:true
+  },
+  {
+    dpt_id:9,
+    country_code:"in",
+    name:"Sports, Fitness, Bags, Luggage",
+    imageurl:"",
+    description:"",
+    isAvalible:true
+  }
 ];
 
 
@@ -56,4 +86,4 @@ const departments = [
 const category = [{}];
 const subcategory = [{}];
 console.log(JSON.stringify(departments));
-appDiv.innerHTML = `<h1>${JSON.stringify(departments)}</h1>`;
+appDiv.innerHTML = `<h6>${JSON.stringify(departments)}</h6>`;
