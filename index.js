@@ -10,7 +10,7 @@ const departments = [
     parent_id: 1,
     country_code: "in",
     name: "Tv,Appliances,Electronics",
-    description: "",
+    description:"",
     isAvalible: true
   },
   {
