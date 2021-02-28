@@ -181,7 +181,7 @@ const category = [
     description:"",
     parent_id:1
   },{
-    names:"Cameras",
+    name:"Cameras",
     imageurl:"",
     description:"",
     parent_id:1
