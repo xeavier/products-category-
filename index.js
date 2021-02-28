@@ -131,7 +131,85 @@ const departments = [
 
 const category = [
   {
-    name: "cat"
+    name: "All Electronics",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Television",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Large Appliances",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Kitchen Appliances",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Air conditioners",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Refrigerators",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Washing machines",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Microwaves",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Chimneys",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Dishwashers",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    names:"Cameras",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Camera Accessories",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Speakers",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Headphones",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Heating & Cooling Appliances",
+    imageurl:"",
+    description:"",
+    parent_id:1
+  },{
+    name:"Home Entertainment Systems",
+    imageurl:"",
+    description:"",
+    parent_id:1
   }
 ];
 
