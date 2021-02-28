@@ -260,6 +260,20 @@ const category = [
     imageurl:"",
     description:"",
     parent_id:2
+  },{
+    name:"Clothing",
+    imageurl:"",
+    description:"",
+    parent_id:4,
+    isAvalible:true
+  },{
+    name:"Footwear",
+    imageurl:"",
+    description:"",
+    parent_id:4,
+    isAvalible:true
+  },{
+    name:"Watches"
   }
 ];
 
