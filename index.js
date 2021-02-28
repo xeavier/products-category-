@@ -106,6 +106,20 @@ const departments = [
     imageurl:"",
     description:"",
     isAvalible:false
+  },{
+    dpt_id:14,
+    country_code:"in",
+    name:"Gift Cards",
+    imageurl:"",
+    description:"",
+    isAvalible:true
+  },{
+    dpt_id:15,
+    country_code:"in",
+    name:"Art, Handicraft, Collectibles",
+    imageurl:"",
+    description:"",
+    isAvalible:true
   }
 ];
 
