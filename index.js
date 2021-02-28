@@ -7,14 +7,14 @@ const appDiv = document.getElementById("app");
 
 const departments = [
   {
-    id: 1,
+    parent_id: 1,
     country_code: "in",
     name: "Tv,Appliances,Electronics",
     description: "",
     isAvalible: true
   },
   {
-    id: 2,
+    parent_id: 2,
     country_code: "in",
     name: "Mobiles,Computers",
     description: "",
@@ -26,5 +26,5 @@ const departments = [
   {},
   {}
 ];
-
+console.log(JSON.stringify(departments));
 appDiv.innerHTML = `<h1>${JSON.stringify(departments)}</h1>`;
