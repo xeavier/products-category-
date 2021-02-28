@@ -78,6 +78,34 @@ const departments = [
     imageurl:"",
     description:"",
     isAvalible:true
+  },{
+    dpt_id:10,
+    country_code:"in",
+    name:"Toys, Baby Products, Kids' Fashion",
+    imageurl:"",
+    description:"",
+    isAvalible:true
+  },{
+    dpt_id:11,
+    country_code:"in",
+    name:"Car, Mortorbike Industrial",
+    imageurl:"",
+    description:"",
+    isAvalible:true
+  },{
+    dpt_id:12,
+    country_code:"in",
+    name:"Books & Audible",
+    imageurl:"",
+    description:"",
+    isAvalible:true
+  },{
+    dpt_id:13,
+    country_code:"in",
+    name:"Gaming, Software, Music & Movies",
+    imageurl:"",
+    description:"",
+    isAvalible:false
   }
 ];
 
