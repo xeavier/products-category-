@@ -302,6 +302,18 @@ const category = [
     description:"",
     parent_id:4,
     isAvalible:true
+  },{
+    name:"Designer Boutique",
+    imageurl:"",
+    description:"",
+    parent_id:4,
+    isAvalible:true
+  },{
+    name:"Fashion Sales & Deals",
+    imageurl:"",
+    description:"",
+    parent_id:4,
+    isAvalible:true
   }
 ];
 
