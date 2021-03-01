@@ -273,7 +273,35 @@ const category = [
     parent_id:4,
     isAvalible:true
   },{
-    name:"Watches"
+    name:"Watches",
+    imageurl:"",
+    description:"",
+    parent_id:4,
+    isAvalible:true
+  },{
+    name:"Bags, Wallets & Luggage",
+    imageurl:"",
+    description:"",
+    parent_id:4,
+    isAvalible:true
+  },{
+    name:"Sunglasses",
+    imageurl:"",
+    description:"",
+    parent_id:4,
+    isAvalible:true
+  },{
+    name:"Accessories",
+    imageurl:"",
+    description:"",
+    parent_id:4,
+    isAvalible:true
+  },{
+    name:"Sports Shoes & Clothing",
+    imageurl:"",
+    description:"",
+    parent_id:4,
+    isAvalible:true
   }
 ];
 
