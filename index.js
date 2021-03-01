@@ -314,6 +314,24 @@ const category = [
     description:"",
     parent_id:4,
     isAvalible:true
+  },{
+    name:"Clothing",
+    imageurl:"",
+    description:"",
+    parent_id:5,
+    isAvalible:true
+  },{
+    name:"Footwear",
+    imageurl:"",
+    description:"",
+    parent_id:5,
+    isAvalible:true
+  },{
+    name:"Kitchen & Dining",
+    imageurl:"",
+    description:"",
+    parent_id:6,
+    isAvalible:true
   }
 ];
 
