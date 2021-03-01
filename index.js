@@ -332,6 +332,24 @@ const category = [
     description:"",
     parent_id:6,
     isAvalible:true
+  },{
+    name:"Furniture",
+    imageurl:"",
+    description:"",
+    parent_id:6,
+    isAvalible:true
+  },{
+    name:"Home Furnishing",
+    imageurl:"",
+    description:"",
+    parent_id:6,
+    isAvalible:true
+  },{
+    name:"Home Decor",
+    imageurl:"",
+    description:"",
+    parent_id:6,
+    isAvalible:true
   }
 ];
 
